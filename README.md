@@ -67,8 +67,7 @@ For a better experience, using the following settings is recommended
 
 <a href="https://dribbble.com/shots/2897233-Notepad"><img align="left" width="128" height="128" src="https://i.imgur.com/4flFIjK.png"></a>
 
-<br/><br/><br/><br/>
-[Download Icon](https://drive.google.com/uc?id=1IZLO0br_quw7O3Fd8dtrQjLjP3loK9J-&export=download)
+
 <br/><br/>
 
 - **Color Palette:** The base colors of the theme can be viewed in [`this`](https://coolors.co/d8dee9-99c794-c695c6-ec5f66-343d46) palette.  
