@@ -66,9 +66,7 @@ For a better experience, using the following settings is recommended
 - **AppIcon:** If you're bored of your default Notepad++ icon, you can try this  sleek and modern one created by Piksely. (visit him [`HERE`](http://www.piksely.com/))
 <br/><br/>
 
-- **Color Palette:** The base colors of the theme can be viewed in [`this`](https://coolors.co/d8dee9-99c794-c695c6-ec5f66-343d46) palette.  
-
-![Palette](https://coolors.co/export/png/d8dee9-99c794-c695c6-ec5f66-343d46)  
+- **Color Palette:** The base colors of the theme can be viewed in [`this`](https://coolors.co/d8dee9-99c794-c695c6-ec5f66-343d46) palette.   <br/>
 For the rest of the colors, check out the hex codes in the Theme's xml file.
 <br/><br/>
 
