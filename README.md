@@ -64,10 +64,6 @@ For a better experience, using the following settings is recommended
 # Other resources <sup>[↑](#getting-started)</sup>
 
 - **AppIcon:** If you're bored of your default Notepad++ icon, you can try this  sleek and modern one created by Piksely. (visit him [`HERE`](http://www.piksely.com/))
-
-<a href="https://dribbble.com/shots/2897233-Notepad"><img align="left" width="128" height="128" src="https://i.imgur.com/4flFIjK.png"></a>
-
-
 <br/><br/>
 
 - **Color Palette:** The base colors of the theme can be viewed in [`this`](https://coolors.co/d8dee9-99c794-c695c6-ec5f66-343d46) palette.  
